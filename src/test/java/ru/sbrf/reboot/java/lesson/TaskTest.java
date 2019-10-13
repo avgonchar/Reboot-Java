@@ -1,3 +1,5 @@
+package ru.sbrf.reboot.java.lesson;
+
 import static org.junit.jupiter.api.Assertions.*;
 
 class TaskTest {

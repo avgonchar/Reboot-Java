@@ -1,3 +1,5 @@
+package ru.sbrf.reboot.java.lesson;
+
 public class Task {
     private int count;
 
